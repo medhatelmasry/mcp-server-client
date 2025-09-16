@@ -1,0 +1,14 @@
+{
+    "servers": {
+        "student-mcp-server": {
+            "command": "docker",
+            "args": [
+                "run",
+                "-i",
+                "--rm",
+                "melmasry/studentsmcp"
+            ],
+            "env": {}
+        }
+    }
+}
