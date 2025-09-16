@@ -9,7 +9,7 @@
 
   <PropertyGroup>
       <EnableSdkContainerSupport>true</EnableSdkContainerSupport>
-      <ContainerRepository>melmasry/studentsmcp</ContainerRepository>
+      <ContainerRepository>your-github-username/studentsmcp</ContainerRepository>
       <ContainerFamily>alpine</ContainerFamily>
       <RuntimeIdentifiers>linux-x64;linux-arm64</RuntimeIdentifiers>
   </PropertyGroup>
